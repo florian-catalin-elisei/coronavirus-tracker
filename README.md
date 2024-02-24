@@ -4,12 +4,12 @@ This is a React application that displays COVID-19 statistics for the USA. It in
 
 ## Installation
 
-Install my-project with npm
+Install my project with npm
 
 1. Clone the repository to your local machine:
 
 ```bash
-  git clone https://github.com/your-username/coronavirus-tracker.git
+  git clone https://github.com/florian-catalin-elisei/coronavirus-tracker.git
 ```
 
 2. Navigate to the project directory:
